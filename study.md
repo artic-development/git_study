@@ -1,9 +1,10 @@
-# Experiment Augmented Reality with ARKit
+﻿# Experiment Augmented Reality with ARKit
 Imagine what could be made with AR.
 
 ### 멘토
 노수진 (soojin.r@webtoonscorp.com)
-
+강영운
+박세은 
 ## 해야할 일
 - [ ] 개별 주제 정하기
 - [ ] 세부 목표 기능 정하기
