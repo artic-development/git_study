@@ -1,4 +1,4 @@
-﻿# Experiment Augmented Reality with ARKit
+# Experiment Augmented Reality with ARKit
 Imagine what could be made with AR.
 
 ### 멘토
@@ -9,7 +9,8 @@ Imagine what could be made with AR.
 - [ ] 개별 주제 정하기
 - [ ] 세부 목표 기능 정하기
 - [ ] 식사 날짜 & 장소 정하기
-
+유동현
+유현영
 ## 주제
 - 구범모
   - 설명
